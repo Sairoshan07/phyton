@@ -1,0 +1,6 @@
+D=int(input("Enter the diameter of circle"))
+r=(D/2)
+Area=3.14*r*r
+circumference=2*3.14*r
+print(Area)
+print(circumference)
