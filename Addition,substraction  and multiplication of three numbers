@@ -3,5 +3,7 @@ b=int(input("Enter the second number"))
 c=int(input("Enter the third number"))
 sum=a+b+c
 multiplication=a*b*c
+difference=a-b-c
 print(sum)
 print(multiplication)
+print(difference)
